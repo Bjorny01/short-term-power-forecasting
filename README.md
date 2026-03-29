@@ -1,6 +1,6 @@
 # ML Project Template
 
-A project for preducting short-term power prognosis for loads/generators on the swedish electrical transmission network, **starting with loads** 
+A project for preducting short-term power prognosis for loads/generators on the swedish electrical transmission network, **starting with loads**.
 
 ---
 
